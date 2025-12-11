@@ -102,7 +102,7 @@ tzdata==2025.2
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/alihaji647/hospital_management.git
-cd hospital_management
+cd hospital_management/hospital_management
 ```
 
 ### 2. Create Virtual Environment
@@ -341,4 +341,5 @@ If you encounter any issues or have questions:
 ---
 
 **Built with ❤️ for healthcare professionals worldwide**
+
 
